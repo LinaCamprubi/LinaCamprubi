@@ -46,7 +46,7 @@ Whether you have a question, need guidance, or want to collaborate on a project,
 feel free to reach out.
 
 - **Email**: lina.camprubi@itb.cat
-- **LinkedIn**: [Lina Camprubi]⚓ttps://www.linkedin.com/in/lina-camprubi-00813748/
+- **LinkedIn**: [Lina Camprubi]⚓https://www.linkedin.com/in/lina-camprubi-00813748/
 ## Let's Learn Together!
 Thank you for visiting my GitHub profile. I hope you find my projects useful and inspiring.
 Let's continue to learn, grow, and create amazing things together!
