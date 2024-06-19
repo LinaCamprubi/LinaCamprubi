@@ -1,5 +1,3 @@
-Claro, aquí tienes el archivo README actualizado:
-
 ```markdown
 # Welcome to Prof. Tech's Corner 👩‍🏫💻
 
