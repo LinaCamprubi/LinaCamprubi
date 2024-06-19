@@ -1,5 +1,5 @@
 ```markdown
-# Welcome to Prof. Tech's Corner 👩‍🏫💻
+# Welcome to Lina's Corner 👩‍🏫💻
 
 ## About Me
 Hello there! I'm IT Teacher at Institut Tecnològic de Barcelona 💻, an enthusiastic educator and a seasoned programmer
@@ -46,7 +46,7 @@ Whether you have a question, need guidance, or want to collaborate on a project,
 feel free to reach out.
 
 - **Email**: lina.camprubi@itb.cat
-- **LinkedIn**: [Lina Camprubi](https://www.linkedin.com/in/prof-tech)
+- **LinkedIn**: [Lina Camprubi](https://www.linkedin.com/in/lcamprubi)
 
 ## Let's Learn Together!
 Thank you for visiting my GitHub profile. I hope you find my projects useful and inspiring.
