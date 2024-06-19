@@ -2,13 +2,13 @@
 # Welcome to Lina's Corner 👩‍🏫💻
 
 ## About Me
-Hello there! I'm IT Teacher at Institut Tecnològic de Barcelona 💻, an enthusiastic educator and a seasoned programmer
+Hello there! I'm IT Teacher at [Institut Tecnològic de Barcelona][itb] 💻, an enthusiastic educator and a seasoned programmer
 specializing in a variety of cutting-edge technologies.
 My journey in the world of coding and networking has been both thrilling and enlightening,
 and I'm here to share that knowledge with you.
 
 ### What I Teach
-I am passionate about teaching and empowering the next generation of tech wizards.
+I am passionate about teaching and empowering the next generation of tech wizards.https://github.com/LinaCamprubi/LinaCamprubi/edit/main/README.md
 My areas of expertise include:
 
 - **Programming Languages**:
@@ -44,11 +44,13 @@ using PHP and JavaScript.
 I'm always open to connecting with fellow educators, students, and tech enthusiasts.
 Whether you have a question, need guidance, or want to collaborate on a project,
 feel free to reach out.
-
+⚓
 - **Email**: lina.camprubi@itb.cat
-- **LinkedIn**: [Lina Camprubi]⚓https://www.linkedin.com/in/lina-camprubi-00813748/
+- **LinkedIn**: [Lina Camprubi][linkedin]
 ## Let's Learn Together!
 Thank you for visiting my GitHub profile. I hope you find my projects useful and inspiring.
 Let's continue to learn, grow, and create amazing things together!
 ```
+[linkedin]:https://www.linkedin.com/in/lina-camprubi-00813748/
+[itb]:http://www.itb.cat
 
