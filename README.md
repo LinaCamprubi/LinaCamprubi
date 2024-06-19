@@ -31,7 +31,7 @@ This role allows me to facilitate international collaboration and provide studen
 with valuable cross-cultural experiences through various Erasmus projects.
 
 ## My Projects
-On this GitHub profile, you'll find a diverse collection of projects that showcase my skills and interests.
+On this GitHub profile, you'll find a diverse collection of projects that showcase my skills and interests.https://github.com/LinaCamprubi
 From web development and mobile apps to network configuration scripts, there's a little bit of
 everything here. Feel free to explore, fork, and contribute!
 
@@ -53,8 +53,5 @@ feel free to reach out.
 ## Let's Learn Together!
 Thank you for visiting my GitHub profile. I hope you find my projects useful and inspiring.
 Let's continue to learn, grow, and create amazing things together!
-```
-
-Puedes copiar y pegar este texto en un archivo `README.md` en tu repositorio de GitHub.
 ```
 
